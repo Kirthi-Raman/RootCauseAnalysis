@@ -5,3 +5,6 @@ Techniques used:<br>
 1) Python libraries: SKLearn, Tensorflow, Pandas, Numpy<br>
 2) Machine Learning<br>
 3) Deep Learning<br>
+
+Futher Work:
+Summarize the analysis logic
